@@ -65,5 +65,9 @@
   "bugs": {
     "url": "https://github.com/pincince64883736/daily-crypto/issues"
   },
-  "homepage": "https://github.com/pincince64883736/daily-crypto#readme"
+  "homepage": "https://github.com/pincince64883736/daily-crypto#readme",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
 }
